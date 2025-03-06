@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "legacy/registrationdesk"
+
+	$translucent 1
+	$decal 1
+}

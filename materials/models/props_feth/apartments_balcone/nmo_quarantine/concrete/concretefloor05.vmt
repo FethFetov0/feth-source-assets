@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"nmo_quarantine/Concrete/concretefloor05"
+	"$detail"		"nmo_quarantine\detail\detail_concrete01"
+	"$detailscale"		"1.700000"
+	"$detailblendfactor"		"0.720000"
+	"%keywords"		"quarantine"
+	"$model"		"1"
+}

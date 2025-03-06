@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"wood/mall_woodtrim00"
+	"$envmap"		"env_cubemap"
+	"$basealphaenvmapmask"		"1"
+	"$envmaptint"		"[.25 .25 .25]"
+	"%keywords"		"l4d2"
+	"$model"		"1"
+}

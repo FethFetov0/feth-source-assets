@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"buildings/building_roof_01"
+	"$ssbump"		"1"
+	"$SSBumpMathFix"		"1"
+	"%keywords"		"l4d2"
+	"$model"		"1"
+}

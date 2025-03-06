@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"office/plaster/plaster_wall_002g"
+	"$ssbump"		"1"
+	"$reflectivity"		"[.1 .1 .1]"
+	"$model"		"1"
+}
