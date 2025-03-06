@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "feth/brickwall01"
+	$bumpmap "feth/brickwall01_bump"
+	$surfaceprop Concrete
+
+	$detail detail\noise_detail_01
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

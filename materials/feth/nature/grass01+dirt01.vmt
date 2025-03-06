@@ -1,0 +1,12 @@
+WorldVertexTransition
+{
+	$basetexture "feth/dirt01"
+	$bumpmap "feth/dirt01_bump"
+	$surfaceprop Grass
+
+	$basetexture2 "feth/grass01"
+	$bumpmap2 "feth/grass01_bump"
+	$surfaceprop2 Grass
+
+	%detailtype citygrass01
+}

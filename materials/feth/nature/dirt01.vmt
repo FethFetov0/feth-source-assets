@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "feth/dirt01"
+	$bumpmap "feth/dirt01_bump"
+	$surfaceprop Grass
+}

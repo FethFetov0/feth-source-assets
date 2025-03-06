@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "decals/plaster_wall_detail"
+
+	$alphatest 1
+	$alphatestreference 0.9
+	$decal 1
+
+	$decalscale 0.25
+}

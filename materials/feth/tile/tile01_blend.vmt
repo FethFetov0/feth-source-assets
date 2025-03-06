@@ -1,0 +1,10 @@
+WorldVertexTransition
+{
+	$basetexture "feth/tile01_a"
+	$bumpmap "feth/tile01_bump"
+	$surfaceprop Concrete
+
+	$basetexture2 "feth/tile01_b"
+	$bumpmap2 "feth/tile01_bump"
+	$surfaceprop2 Concrete
+}

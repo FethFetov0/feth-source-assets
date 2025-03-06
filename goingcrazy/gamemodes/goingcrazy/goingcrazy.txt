@@ -1,0 +1,8 @@
+"goingcrazy"
+{
+	"base"		    "base"
+	"title"		    "Going Crazy"
+	"maps"		    "gc_"
+	"category"	    "pve"
+	"menusystem"	"1"
+}

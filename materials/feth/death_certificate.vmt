@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "feth/death_certificate"
+
+	$alphatest 1
+	$alphatestreference 0.2
+}

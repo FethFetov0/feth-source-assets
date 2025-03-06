@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "/apartments_hall_monster/0.vtf"
+	$surfaceprop Flesh
+}
