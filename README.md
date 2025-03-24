@@ -6,6 +6,7 @@
 You can use any file(s) with any goal, you don't need to ask for my permission to use any. Though, it would be nice, if you send me a link to your creation that uses my file(s).
 
 Contacts:
-- Steam - *\_feth\_*
-- Email - *fethfetov@gmail.com*
-
+- Steam   - *\_feth\_*
+- Discord - *\_feth\_*
+- Email   - *fethfetov@gmail.com*
+- IRC     - liberachat:fethfetov
